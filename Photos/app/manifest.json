@@ -458,5 +458,33 @@
       "src": "/app/icon/ios/1024.png",
       "sizes": "1024x1024"
     }
+  ],
+  "screenshots": [
+    {
+      "src": "/app/screenshot/ss1.png",
+      "sizes": "1080x2400",
+      "type": "image/png",
+      "description": "Home Screen"
+    },
+    {
+      "src": "/app/screenshot/ss2.png",
+      "sizes": "1080x2400",
+      "type": "image/png",
+      "description": "Sign Up Page"
+    },
+    {
+      "src": "/app/screenshot/ss3.png",
+      "sizes": "1080x2400",
+      "type": "image/png",
+      "description": "Login Page"
+    }
+  ],
+  "features": [
+    "Cross Platform",
+    "fast",
+    "simple"
+  ],
+  "categories": [
+    "photo"
   ]
 }
