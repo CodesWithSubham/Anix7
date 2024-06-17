@@ -461,19 +461,19 @@
   ],
   "screenshots": [
     {
-      "src": "/app/screenshot/ss1.png",
+      "src": "/app/screenshot/ss1.jpg",
       "sizes": "1080x2400",
       "type": "image/png",
       "description": "Home Screen"
     },
     {
-      "src": "/app/screenshot/ss2.png",
+      "src": "/app/screenshot/ss2.jpg",
       "sizes": "1080x2400",
       "type": "image/png",
       "description": "Sign Up Page"
     },
     {
-      "src": "/app/screenshot/ss3.png",
+      "src": "/app/screenshot/ss3.jpg",
       "sizes": "1080x2400",
       "type": "image/png",
       "description": "Login Page"
