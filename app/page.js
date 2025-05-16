@@ -66,7 +66,7 @@ export default async function Home() {
               <h2 className="font-semibold text-xl hover:text-blue-500 dark:hover:text-blue-800 transition-all duration-500">
                 {drop.title}
               </h2>
-              <p className="text-gray-300 dark:text-gray-500 hover:text-blue-500 dark:hover:text-blue-800 transition-all duration-500">
+              <p className="text-neutral-600 dark:text-neutral-300 hover:text-blue-500 dark:hover:text-blue-800 transition-all duration-500">
                 {drop.description}
               </p>
             </div>
