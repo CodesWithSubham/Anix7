@@ -37,13 +37,13 @@ export default async function Home() {
         </h1>
         <p className="mb-6 sm:w-5/6">
           Welcome to Anix7 — your ultimate digital playground where creativity
-          meets curiosity. Whether you're looking to shorten URLs, generate QR
+          meets curiosity. Whether you&apos;re looking to shorten URLs, generate QR
           codes, discover breathtaking anime wallpapers in 4K, read the latest
           anime reviews, or just pass the time with fun little games, we&apos;ve got
           something for everyone. Dive into a world of smart tools, artistic
-          visuals, AI-generated photos, and nature's finest moments — all in one
+          visuals, AI-generated photos, and nature&apos;s finest moments — all in one
           place. Explore, create, download, and enjoy — because at Anix7,
-          there's always something new waiting for you.
+          there&apos;s always something new waiting for you.
         </p>
 
         {Drops.map((drop, index) => (
