@@ -1,4 +1,4 @@
-import Image from "next/image";
+// app/not-found.js
 import Link from "next/link";
 
 export default function NotFound() {
