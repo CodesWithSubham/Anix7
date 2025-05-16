@@ -60,7 +60,7 @@ const importantLinks = [
 
 export default function Footer() {
   return (
-    <footer className="mb-8 mt-10">
+    <footer className="mb-8 mt-10 mx-3 md:mx-8">
       <WorkBox className="text-center">
         {/* <!-- About --> */}
         <div>
